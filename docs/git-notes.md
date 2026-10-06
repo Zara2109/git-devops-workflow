@@ -9,3 +9,9 @@ git add .
 git commit -m "message"
 git push
 git pull
+
+## Git Branching Strategy
+
+main → production
+dev → development
+feature → new features
